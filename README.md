@@ -2,7 +2,7 @@
 
 Predicting the overnight deployment-readiness status of warehouse humanoid robots from diagnostic sensor data, for a 2026 AI/DS hackathon (Great Learning). 7-class ordinal classification, scored on accuracy.
 
-**Public leaderboard: 0.8578 → 0.8583**, reached #1 on the leaderboard in the closing stretch of the competition.
+**Public leaderboard: 0.8583 accuracy**, reached #1 on the leaderboard in the closing stretch of the competition.
 
 ## The problem
 
